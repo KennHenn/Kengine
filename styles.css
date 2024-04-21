@@ -1,10 +1,14 @@
 body {
     margin: 1;
-    background: beige;
+    background: gray;
     text-align: center;
     font-family: "Lucida Console", "Courier New", monospace;
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 400px;
+}
+
+h2 {
+    font-size: 200px;
 }
