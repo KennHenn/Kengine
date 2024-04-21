@@ -3,6 +3,7 @@ body {
     background: gray;
     text-align: center;
     font-family: "Lucida Console", "Courier New", monospace;
+    margin:100px;
 }
 
 h1 {
@@ -14,5 +15,5 @@ h2 {
 }
 
 h3 {
-    font-size: 75px;
+    font-size: 50px;
 }
